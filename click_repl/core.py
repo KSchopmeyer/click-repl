@@ -68,7 +68,7 @@ class ReplContext:
         "prompt_kwargs",
         "parent",
         "session",
-        "_history",
+        "_history"
     )
 
     def __init__(
